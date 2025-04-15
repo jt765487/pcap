@@ -1,0 +1,9 @@
+# requirements-dev.txt
+# Dependencies for development, testing, and running helper scripts
+# pip install -r requirements-dev.txt
+
+# Include the core runtime requirements
+-r requirements.txt
+
+# Dependencies for test scripts/simulators
+flask

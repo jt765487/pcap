@@ -1,0 +1,6 @@
+# requirements.txt
+# Core runtime dependencies for pcap_uploader
+# pip install -r requirements.txt
+
+requests
+watchdog
